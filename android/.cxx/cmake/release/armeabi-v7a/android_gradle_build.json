@@ -1,0 +1,390 @@
+{
+  "stringTable": {
+    "0": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -Oz -DNDEBUG -fPIE",
+    "2": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/CMakeLists.txt",
+    "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "libiperf_bundle.so-Release-armeabi-v7a": {
+      "buildCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/armeabi-v7a\" libiperf_bundle.so",
+      "buildType": "release",
+      "toolchain": "3166184000",
+      "abi": "armeabi-v7a",
+      "artifactName": "libiperf_bundle.so",
+      "files": [
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/flowlabel.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_config.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/portable_endian.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/queue.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/version.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/armeabi-v7a/libiperf_bundle.so",
+      "runtimeFiles": []
+    },
+    "native_add-Release-armeabi-v7a": {
+      "buildCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/armeabi-v7a\" native_add",
+      "buildType": "release",
+      "toolchain": "3166184000",
+      "abi": "armeabi-v7a",
+      "artifactName": "native_add",
+      "files": [
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/flowlabel.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_config.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/portable_endian.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/queue.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/version.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/example/build/native_add/intermediates/cmake/release/obj/armeabi-v7a/libnative_add.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3166184000": {
+      "cCompilerExecutable": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

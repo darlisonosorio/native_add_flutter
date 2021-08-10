@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86_64'
+ninja: no work to do.

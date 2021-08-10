@@ -1,0 +1,4 @@
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/libiperf_bundle.so.dir
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native_add.dir

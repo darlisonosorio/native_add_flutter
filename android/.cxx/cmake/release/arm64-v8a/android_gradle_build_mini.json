@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/CMakeLists.txt",
+    "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "libiperf_bundle.so-Release-arm64-v8a": {
+      "artifactName": "libiperf_bundle.so",
+      "buildCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/arm64-v8a\" libiperf_bundle.so",
+      "abi": "arm64-v8a",
+      "output": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/arm64-v8a/libiperf_bundle.so",
+      "runtimeFiles": []
+    },
+    "native_add-Release-arm64-v8a": {
+      "artifactName": "native_add",
+      "buildCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/arm64-v8a\" native_add",
+      "abi": "arm64-v8a",
+      "output": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/example/build/native_add/intermediates/cmake/release/obj/arm64-v8a/libnative_add.so",
+      "runtimeFiles": []
+    }
+  }
+}

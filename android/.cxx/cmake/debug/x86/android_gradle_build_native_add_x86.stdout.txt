@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86'
+[1/2] Building C object CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c.o
+[2/2] Linking CXX shared library /home/lmmfranco/projects/fpf/tropico/pocs/native_add/example/build/native_add/intermediates/cmake/debug/obj/x86/libnative_add.so

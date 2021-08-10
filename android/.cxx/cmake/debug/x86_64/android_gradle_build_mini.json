@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/CMakeLists.txt",
+    "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_add-Debug-x86_64": {
+      "artifactName": "native_add",
+      "buildCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86_64\" native_add",
+      "abi": "x86_64",
+      "output": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/example/build/native_add/intermediates/cmake/debug/obj/x86_64/libnative_add.so",
+      "runtimeFiles": []
+    },
+    "libiperf_bundle.so-Debug-x86_64": {
+      "artifactName": "libiperf_bundle.so",
+      "buildCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86_64\" libiperf_bundle.so",
+      "abi": "x86_64",
+      "output": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86_64/libiperf_bundle.so",
+      "runtimeFiles": []
+    }
+  }
+}

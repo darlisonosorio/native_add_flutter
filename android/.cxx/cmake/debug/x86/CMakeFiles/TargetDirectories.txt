@@ -1,0 +1,4 @@
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86/CMakeFiles/libiperf_bundle.so.dir
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86/CMakeFiles/native_add.dir

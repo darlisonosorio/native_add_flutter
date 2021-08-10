@@ -1,0 +1,241 @@
+[
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/exit_hack.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/exit_hack.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/exit_hack.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot    -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp.o -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIE   -o CMakeFiles/libiperf_bundle.so.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/exit_hack.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/exit_hack.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/exit_hack.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp.o -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c"
+},
+
+{
+  "directory": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+  "command": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c.o   -c /home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c",
+  "file": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c"
+}
+]

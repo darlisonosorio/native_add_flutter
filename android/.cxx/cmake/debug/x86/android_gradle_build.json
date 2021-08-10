@@ -1,0 +1,254 @@
+{
+  "stringTable": {
+    "0": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIE",
+    "2": "--target=i686-none-linux-android16 --gcc-toolchain=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_add_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/CMakeLists.txt",
+    "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "libiperf_bundle.so-Debug-x86": {
+      "buildCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86\" libiperf_bundle.so",
+      "buildType": "debug",
+      "toolchain": "3166184000",
+      "abi": "x86",
+      "artifactName": "libiperf_bundle.so",
+      "files": [
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/exit_hack.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86/libiperf_bundle.so",
+      "runtimeFiles": []
+    },
+    "native_add-Debug-x86": {
+      "buildCommand": "/home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86\" native_add",
+      "buildType": "debug",
+      "toolchain": "3166184000",
+      "abi": "x86",
+      "artifactName": "native_add",
+      "files": [
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/native_add.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/exit_hack.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/cjson.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/dscp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_auth.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_client_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_error.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_locale.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_sctp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_server_api.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_tcp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_time.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_udp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/iperf_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/main.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/net.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/tcp_info.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/timer.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/ios/Classes/units.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/lmmfranco/projects/fpf/tropico/pocs/native_add/example/build/native_add/intermediates/cmake/debug/obj/x86/libnative_add.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3166184000": {
+      "cCompilerExecutable": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/lmmfranco/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

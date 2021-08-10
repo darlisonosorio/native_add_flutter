@@ -1,0 +1,7 @@
+Executable : /home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/x86_64
+native_add
+jvmArgs : 
+

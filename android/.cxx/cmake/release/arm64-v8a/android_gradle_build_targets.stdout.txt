@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/release/arm64-v8a'
+ninja: no work to do.

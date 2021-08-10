@@ -1,0 +1,8 @@
+Executable : /home/lmmfranco/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/lmmfranco/projects/fpf/tropico/pocs/native_add/android/.cxx/cmake/debug/arm64-v8a
+libiperf_bundle.so
+native_add
+jvmArgs : 
+
